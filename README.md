@@ -1,4 +1,10 @@
+<!-- GIF  -->
+<div style="float: right; margin: 0 0 10px 10px;">
+  <img height="120" src="https://media1.tenor.com/m/stKjYPvgKDgAAAAd/dvd-old.gif" alt="DVD Bouncing GIF" />
+</div>
+<br><br>
 
+##
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -12,12 +18,6 @@
 <div align="left" style="margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="30" alt="C# logo" />
 </div>
-
-##
-<!-- GIF  -->
- <br> <br>
-<img align="right" height="120" src="https://media1.tenor.com/m/stKjYPvgKDgAAAAd/dvd-old.gif" alt="DVD Bouncing GIF" />
-
 
 ##
 
