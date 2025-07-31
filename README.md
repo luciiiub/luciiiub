@@ -14,7 +14,6 @@
 
 <img src="https://raw.githubusercontent.com/luuizexe/luuizexe/output/snake.svg" alt="Snake animation" />
 
-
 ## Social Media:
 
 <div aling="left">
