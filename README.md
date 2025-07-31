@@ -6,8 +6,8 @@
 ##
 
 <div aling="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="20" alt="C#logo" />
-<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="30" alt="C#logo" />
+<img width="30" />
 </div>
 
 ##
