@@ -5,23 +5,30 @@
 
 ##
 
-<div aling="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="30" alt="C#logo" />
-<img width="30" />
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="30" alt="C# logo" />
+    <img width="30" />
+</div>
+
+## Unity Badges
+
+<div align="left">
+    <img src="https://images.credly.com/size/340x340/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png" height="100" alt="Unity Badge 1" />
+    <img src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" height="100" alt="Unity Badge 2" />
+</div>
+
+## Social Media:
+
+<div align="left">
+    <a href="https://play.unity.com/en/user/fc833dc5-b81c-48e7-ae6f-a9084cdcfeb8" target="_blank">
+        <img alt="Unity logo" src="https://img.shields.io/badge/UnityPlay-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000">
+    </a>
+    <br> 
+    <a href="https://open.spotify.com/user/nf97u786mlwxtkeybv7fp7imf?si=92a7c260e47a437a">
+        <img alt="Spotify logo" src="https://img.shields.io/badge/Spotify-FFFFFF?style=for-the-badge&logo=Spotify&logoColor=1DB954">
+    </a>
 </div>
 
 ##
 
 <img src="https://raw.githubusercontent.com/luuizexe/luuizexe/output/snake.svg" alt="Snake animation" />
-
-## Social Media:
-
-<div aling="left">
-<a href="https://play.unity.com/en/user/fc833dc5-b81c-48e7-ae6f-a9084cdcfeb8" target="_blank">
-    <img alt="Unity logo" src="https://img.shields.io/badge/UnityPlay-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000">
-</a>
-<br> 
-    <a href="https://open.spotify.com/user/nf97u786mlwxtkeybv7fp7imf?si=92a7c260e47a437a">
-      <img alt="Spotify logo" src="https://img.shields.io/badge/Spotify-FFFFFF?style=for-the-badge&logo=Spotify&logoColor=1DB954">
-    </a>
-</div>       
