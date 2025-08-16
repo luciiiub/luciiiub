@@ -31,4 +31,5 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/luuizexe/luuizexe/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/luciiiub/luciiiub/blob/output/github-snake-dark.svg)
+
