@@ -3,10 +3,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciiiub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
+##  
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="30" alt="C# logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="50" alt="C# logo" />
     <img width="30" />
 </div>
 
