@@ -12,6 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="50" alt="Visual Studio logo" />
+<img src="https://github.com/user-attachments/assets/cea68298-e147-4a73-aeb5-ace94e76a591" height="50" alt="Krita logo"/>
+
 </div>
 
 <div style="text-align: right;">
