@@ -27,10 +27,10 @@
 ## Unity Badges
 
 <div align="left">
-<img src="https://images.credly.com/size/340x340/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png" height="100" alt="Unity Badge 1" />
-<img src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" height="100" alt="Unity Badge 2" />
-<img src="https://github.com/user-attachments/assets/352e029d-0ae6-4f7e-be29-b2cd05d4a1f9" height="100" alt="Unity Badge 3"/>  
-
+  <img src="https://images.credly.com/size/340x340/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png" height="100" alt="Unity Badge 1" />
+  <img src="https://images.credly.com/size/340x340/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" height="100" alt="Unity Badge 2" />
+  <img src="https://github.com/user-attachments/assets/352e029d-0ae6-4f7e-be29-b2cd05d4a1f9" height="100" alt="Unity Badge 3" />
+  <img src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" height="100" alt="Unity Junior Programmer Badge" />
 </div>
 
 ## Social Media:
