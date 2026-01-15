@@ -33,7 +33,7 @@
   <img src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" height="100" alt="Unity Junior Programmer Badge" />
 </div>
 
-## Social Media:
+## Social Media
 
 <div align="left">
 <a href="https://play.unity.com/en/user/fc833dc5-b81c-48e7-ae6f-a9084cdcfeb8" target="_blank">
